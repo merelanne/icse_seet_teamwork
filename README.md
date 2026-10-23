@@ -12,7 +12,6 @@ We applied the same codebook to the panel and interview transcripts.
 Following coding, we grouped coded excerpts by theme and used a KJ diagram approach [3] to cluster the data into categories and identify underlying patterns and relationships. 
 This process resulted in 52 categories across four themes. 
 These four themes are reflected in the codebook, along with subcodes identified using KJ diagram analysis. 
-Additional codes remaining from the initial group of deductive codes are included too. 
 
 ## Citation and Contact
 If you use or adapt this codebook, please cite the associated research publication:

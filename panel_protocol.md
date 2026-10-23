@@ -1,29 +1,18 @@
-### Question 1
-Industry representatives have identified the following as core competencies to assess:
-    - Problem-solving (design reasoning)
-    - Communication (including with stakeholders)
-    - Team collaboration
-    - Proactivity and initiative
-    - Ownership and reliability
-    - Technical execution quality (e.g., code quality, engineering practices)
-    - Productivity and efficiency (not merely output volume)
+### Assessment criteria
+- Which additional assessment criteria do you think are important when assessing teams?
+- How do you assess these criteria?
+- Industry representatives have identified the following as core competencies to assess: Problem-solving, communication (including with stakeholders), team collaboration, proactivity/initiative, ownership/reliability, technical skills, productivity. To what extent does your current approach to assessing students in group projects align with or differ from these industry perspectives?
+- (optional) Do you experience situations where there is a mismatch between what you aim to assess and what you are actually able to assess in practice?
 
-Importantly, they emphasised that the following should **not** be primary assessment criteria:
-- Raw output volume (e.g., lines of code, number of commits)
-- The existence of a single “correct” solution
+### Team vs. individual performance
+- How do you balance evaluating individual contribution versus team outcome?
+- What signals do you use to infer an individual’s contribution in a team project?
+- (optional) Which methods do you consider to be most reliable?
+- (optional) How do you prevent metrics like commits/PRs from becoming misleading or gameable?
 
-To what extent does your current approach to assessing students in group projects align with or differ from these industry perspectives?
-
-#### Follow-up:
-Do you experience situations where there is a mismatch between what you aim to assess and what you are actually able to assess in practice?
-
-### Question 2
-In teams where students have significantly different levels of experience:
-    - How do you evaluate individual performance fairly? (given varying experience levels)
-    - How do you infer individual contributions from a collective team outcome?
-
-### Question 3
-What fairness-related challenges have you encountered when assessing student teams?
+### Fairness
+- What fairness issues have you encountered in evaluating teams?
+- (optional) What concrete practices do you use to reduce bias and increase consistency?
 
 ### Question 4
 Industry representatives report using a range of practices to assess engineering performance. These include:
@@ -38,14 +27,11 @@ Industry representatives report using a range of practices to assess engineering
     - **Assessment of teamwork behaviours**, such as communication, coordination, self-organization, and stakeholder alignment
     
 
-What are your views on the applicability of these industry practices in an academic setting?
+- What are your views on the applicability of these industry practices in an academic setting?
+- (optional) Which of these practices do you find most feasible or valuable for university courses?
+- (optional)Which would be difficult to implement, and why?
 
-#### Follow-up questions
-  - Which of these practices do you find most feasible or valuable for university courses?
-  - Which would be difficult to implement, and why (e.g., scalability, fairness, workload)?
-
-### Question 5
-What suggestions would you give to industry regarding the assessment of engineering teams?
-
-#### Follow-up:
-Are there aspects of academic evaluation (e.g., focus on learning objectives) that industry could adopt?
+### Recommendations
+- What suggestions would you give to industry regarding the assessment of engineering teams?
+- Which of your current assessment practices do you think could translate well to industry, and why?
+- Are there any other aspects of academic evaluation that industry could adopt?

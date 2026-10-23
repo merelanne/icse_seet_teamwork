@@ -20,7 +20,7 @@
 - (optional) What do you consider a “good contribution” from a junior in that scenario?
 
 ### Fairness
-- What fairness issues have you encountered in evaluating engineering teams?
+- What fairness issues have you encountered in evaluating teams?
 - (optional) What concrete practices do you use to reduce bias and increase consistency?
 
 ### Recommendations

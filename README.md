@@ -20,6 +20,6 @@ If you use or adapt this codebook, please cite the associated research publicati
 For questions about the codebook, contact [anonymous for review].
 
 ## References
-[1] V. Schürmann, N. Marquardt, and D. Bodemer, "Conceptualization and measurement of peer collaboration in higher education: A systematic review," Small Group Research, vol. 55, pp. 89–138, Feb 2024.
-[2] K. Vance, S. Kulturel-Konak, and A. Konak, "Assessing teamwork skills and knowledge," in 2014 IEEE Integrated STEM Education Conference, pp. 1–6, 2014.
+[1] V. Schürmann, N. Marquardt, and D. Bodemer, "Conceptualization and measurement of peer collaboration in higher education: A systematic review," Small Group Research, vol. 55, pp. 89–138, Feb 2024.  
+[2] K. Vance, S. Kulturel-Konak, and A. Konak, "Assessing teamwork skills and knowledge," in 2014 IEEE Integrated STEM Education Conference, pp. 1–6, 2014.  
 [3] R. Scupin, “The kj method: A technique for analyzing data derived from japanese ethnology,” Human Organization, vol. 56, no. 2, pp. 233–237, 1997.

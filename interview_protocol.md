@@ -4,8 +4,9 @@
 - (optional) In your organisation, when do you formally assess engineers?
 - (optional) When/Do you do it informally?
 
-### Assessment criteria
+### Assessment criteria & methods
 - What are the most important skills you want to measure when assessing engineering teams?
+- How do you assess for these criteria?
 
 ### Team vs. individual performance
 - How do you balance evaluating individual contribution versus team outcome?
